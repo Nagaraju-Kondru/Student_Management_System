@@ -1,0 +1,11 @@
+body { background-color: #f8f9fa; }
+.container-fluid { max-width: 1100px; }
+.card { border-radius: 1rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+.backlog-status { font-weight: bold; }
+.backlog { color: #dc3545; }
+.cleared { color: #198754; }
+
+/* Form Inputs */
+.form-control.rounded-pill, .form-select.rounded-pill {
+  border-radius: 50px;
+}
